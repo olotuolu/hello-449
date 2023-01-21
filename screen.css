@@ -1,0 +1,46 @@
+.introimage{
+    background: url("federica-galli-aiqKc07b5PA-unsplash.jpg");
+    width: 800px;
+    height: 200px;
+    background-position: bottom;
+    background-size: cover;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+.sec1{
+    width: 800px;
+    display: flex;
+}
+.sec1a{
+    width: 387.5px;
+    background: lightgray;
+    margin-right: 25px;
+    border-radius: 10px;
+    padding: 10px;
+    line-height: 35px;
+}
+.sec1b{
+    width: 387.5px;
+    background: lightgray;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.subsec2{
+    background: darkgray;
+    height: 100%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 10px;
+}
+.subsec1{
+    padding: 10px;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-top: solid black 7px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
